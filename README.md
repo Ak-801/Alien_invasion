@@ -1,9 +1,9 @@
 <h1>Alien Invasion - A 2D Pygame Shooting Game</h1>
 <br>
 <h3>Description:</h3>
- * Defend Earth from a relentless alien invasion in this exciting Pygame project!
- * Blast spaceships and experience classic arcade action.
- * Increasing difficulty keeps the challenge fresh.
+<p>* Defend Earth from a relentless alien invasion in this exciting Pygame project!</p> 
+ <p>* Blast spaceships and experience classic arcade action.</p>
+ <p>* Increasing difficulty keeps the challenge fresh.</p>
 Getting Started:
  * Prerequisites: Ensure you have Python (version 3.x recommended) and Pygame installed. Download and install them if needed:
    * Python: https://www.python.org/downloads/
