@@ -6,7 +6,7 @@
 * Blast spaceships and experience classic arcade action.
 * Increasing difficulty keeps the challenge fresh.
 
-Getting Started:
+<h3>Getting Started:</h3>
  * Prerequisites: Ensure you have Python (version 3.x recommended) and Pygame installed. Download and install them if needed:
    * Python: https://www.python.org/downloads/
    * Pygame: https://www.pygame.org/wiki/GettingStarted
