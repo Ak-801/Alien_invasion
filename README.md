@@ -7,11 +7,12 @@
 * Increasing difficulty keeps the challenge fresh.
 
 <h3>Getting Started:</h3>
- * Prerequisites: Ensure you have Python (version 3.x recommended) and Pygame installed. Download and install them if needed:
-   * Python: https://www.python.org/downloads/
-   * Pygame: https://www.pygame.org/wiki/GettingStarted
- * Clone the Repository: Use Git to clone this repository to your local machine. You can find instructions on using Git at https://git-scm.com/.
- * Run the Game: Navigate to the project directory in your terminal and execute the main game script (e.g., python alien_invasion.py).
+
+* Prerequisites: Ensure you have Python (version 3.x recommended) and Pygame installed. Download and install them if needed:* Python: https://www.python.org/downloads/
+* Pygame: https://www.pygame.org/wiki/GettingStarted
+* Clone the Repository: Use Git to clone this repository to your local machine. You can find instructions on using Git at https://git-scm.com/.
+* Run the Game: Navigate to the project directory in your terminal and execute the main game script (e.g., python alien_invasion.py).
+  
 Gameplay:
  * Controls:
    * Move your rocket ship left and right with the left and right arrow keys.
