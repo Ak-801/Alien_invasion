@@ -12,7 +12,7 @@
 * Ensure you have Python (version 3.x recommended) and Pygame installed. Download and install them if needed:* Python: https://www.python.org/downloads/
 * Pygame: https://www.pygame.org/wiki/GettingStarted
 * Clone the Repository: Use Git to clone this repository to your local machine. You can find instructions on using Git at https://git-scm.com/.
-* Run the Game: Navigate to the project directory in your terminal and execute the main game script (e.g., python alien_invasion.py).
+* Run the Game: Navigate to the project directory in your terminal and execute the main game script (alien_invasion.py).
   
 <h3>Gameplay:</h3>
 <h5>Controls:</h5>
