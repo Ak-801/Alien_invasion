@@ -16,6 +16,7 @@
   
 <h3>Gameplay:</h3>
 <h5>Controls:</h5>
+
 * Move your rocket ship left and right with the left and right arrow keys.
 * Fire bullets with the spacebar.
 * Objective: Shoot down all the aliens before they reach the bottom of the screen or touch your ship.
