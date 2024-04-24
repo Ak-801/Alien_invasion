@@ -1,11 +1,8 @@
 <h1>Alien Invasion - A 2D Pygame Shooting Game</h1>
 <br>
-<h3>Description:</h3>
-<p>* Defend Earth from a relentless alien invasion in this exciting Pygame project!</p> 
- <p>* Blast spaceships and experience classic arcade action.</p>
- <p>* Increasing difficulty keeps the challenge fresh.</p>
+#Description:
 
- * Defend Earth from a relentless alien invasion!
+* Defend Earth from a relentless alien invasion!
 * Blast spaceships and experience classic arcade action.
 * Increasing difficulty keeps the challenge fresh.
 
