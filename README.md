@@ -18,8 +18,7 @@
 <h5>Controls:</h5>
 * Move your rocket ship left and right with the left and right arrow keys.
 * Fire bullets with the spacebar.
-
-* <h5>Objective:</h5> Shoot down all the aliens before they reach the bottom of the screen or touch your ship.
+* Objective: Shoot down all the aliens before they reach the bottom of the screen or touch your ship.
 * Scoring: (Add details about scoring if implemented in your game)
 * Difficulty: The aliens gradually move faster as you progress through levels (defeating all aliens in a wave triggers the next level).
 * Lives: You have three lives (represented by your ship). If an alien hits your ship or reaches the bottom, you lose a life. The game ends after losing all three lives.
