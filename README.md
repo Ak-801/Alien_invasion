@@ -4,6 +4,11 @@
 <p>* Defend Earth from a relentless alien invasion in this exciting Pygame project!</p> 
  <p>* Blast spaceships and experience classic arcade action.</p>
  <p>* Increasing difficulty keeps the challenge fresh.</p>
+
+ * Defend Earth from a relentless alien invasion!
+* Blast spaceships and experience classic arcade action.
+* Increasing difficulty keeps the challenge fresh.
+
 Getting Started:
  * Prerequisites: Ensure you have Python (version 3.x recommended) and Pygame installed. Download and install them if needed:
    * Python: https://www.python.org/downloads/
